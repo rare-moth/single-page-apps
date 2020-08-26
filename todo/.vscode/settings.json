@@ -1,0 +1,10 @@
+{
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.colorCustomizations": {
+        "titleBar.activeForeground": "#000",
+        "titleBar.inactiveForeground": "#000000CC",
+        "titleBar.activeBackground": "#34eb34",
+        "titleBar.inactiveBackground": "#63c72e"
+    }
+}
