@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Form from './js/components/Form';
+import Todo from './js/components/Todo';
 import './css/main.scss';
 
 const Index = () => {
   return (
-    <div>Hello React!!
-        <Form />
+    <div>
+        <Todo />
     </div>
   );
 };
