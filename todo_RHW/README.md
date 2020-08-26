@@ -9,7 +9,7 @@ todo list using reack-hooks and webpack (RHW)
 Clone repository
 https://github.com/soosa/single-page-apps.git
 
-```$ cd todo-RHW ```
+```$ cd todo_RHW ```
 
 ```$ npm install```
 
