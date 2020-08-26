@@ -1,0 +1,3 @@
+- move css out of JS into separate compile
+- todo with hooks
+- exec script /bin => automate server start/restart
