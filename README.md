@@ -6,6 +6,12 @@ Each folder contains a stand alone project.
 ## Index
 1. todo_RHW
 
-'Todo' application using the following technologies: React Hooks, Webpack, SCSS
+'Todo' application using: React Hooks, Webpack, SCSS
 
 RHW stands for: React Hooks Webpack
+
+2. todo_RRC
+
+'Todo' application using: React, Redux, Create-React-App
+
+RRC stands for: React Redux Create-react-app

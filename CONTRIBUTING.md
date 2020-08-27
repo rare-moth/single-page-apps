@@ -16,3 +16,6 @@ AngularJS, Elm, Ember.js, Gatsby, Meteor.js, Next.js, React, Vue.js, etc.
 - setting up instructions
 
 *Happy coding, and long live open source* 👩‍💻 :unicorn:
+
+## Contributors
+@soosa
