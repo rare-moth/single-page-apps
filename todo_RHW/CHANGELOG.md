@@ -1,7 +1,4 @@
-#Changelog
-
-## v0.0.0
-initial directory
+# Changelog
 
 ## v1.0.0
 source https://pusher.com/tutorials/todo-app-react-hooks
@@ -12,3 +9,6 @@ source https://pusher.com/tutorials/todo-app-react-hooks
 - remove todo item function
 - React's ```useEffect``` method for tracking uncomplete todo items
 - initial _todo.scss
+
+## v0.0.0
+initial directory
