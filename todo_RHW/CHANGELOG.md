@@ -1,6 +1,7 @@
 # Changelog
 
-## v1.0.0
+## todo_RHW/1.0.0
+
 source https://pusher.com/tutorials/todo-app-react-hooks
 
 - todo component created
@@ -11,4 +12,5 @@ source https://pusher.com/tutorials/todo-app-react-hooks
 - initial _todo.scss
 
 ## v0.0.0
+/todo_RHW
 initial directory
