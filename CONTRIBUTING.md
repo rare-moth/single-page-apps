@@ -10,6 +10,8 @@ You can either contribute to existing projects or submit your own.
 1. Each project must be a self contained, single page application - **SPA**. Example technologies you can use:
 AngularJS, Elm, Ember.js, Gatsby, Meteor.js, Next.js, React, Vue.js, etc.
 
+Project ideas: todo list, memory card game, photo gallery, calculator, clock, form validator
+
 2. A project must have a **README.md** file outlining:
 - what the application does 
 - what technology was used
