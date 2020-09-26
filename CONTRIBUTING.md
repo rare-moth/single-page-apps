@@ -13,11 +13,11 @@ AngularJS, Elm, Ember.js, Gatsby, Meteor.js, Next.js, React, Vue.js, etc.
 Project ideas: todo list, memory card game, photo gallery, calculator, clock, form validator
 
 2. A project must have a **README.md** file outlining:
-- what the application does 
-- what technology was used
-- setting up instructions
+- description of App (what is it for?)
+- brief outline of stack (tech used)
+- setting up instructions (npm install, etc.)
 
-*Happy coding, and long live open source* 👩‍💻 :unicorn:
+*Happy coding, long live open source* 🖖 👩‍💻 :unicorn:
 
 ## Contributors
 @soosa
