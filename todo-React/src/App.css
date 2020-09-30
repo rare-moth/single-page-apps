@@ -1,0 +1,52 @@
+.App{
+  width: 500px;
+  height: 600px;
+  border: 1px solid #bdc3c7;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.todoHeader{
+  margin-top:10px;
+  text-align: center;
+
+}
+
+.tasklist{
+  overflow-y:auto;
+    height:350px;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #487eb0;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.task{
+  padding: 10px;
+  margin-top:10px;
+  width: 100%;
+  border: 1px solid #f5f6fa;
+  border-radius: 10px;
+  background-color: #f5f6fa;
+}
+
+.description{
+  color: #353b48;
+  margin-top: 5px;
+  margin-left: 5px;
+}
