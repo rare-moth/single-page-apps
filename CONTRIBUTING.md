@@ -21,3 +21,4 @@ Project ideas: todo list, memory card game, photo gallery, calculator, clock, fo
 
 ## Contributors
 @soosa
+@RitikPandey1
