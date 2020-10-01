@@ -6,11 +6,15 @@ Each folder contains a stand alone project.
 ## Index
 1. todo_RHW
 
+by @soosa 
+
 'Todo' application using: React Hooks, Webpack, SCSS
 
 RHW stands for: React Hooks Webpack
 
 2. todo_RRC
+
+by @soosa 
 
 'Todo' application using: React, Redux, Create-React-App
 
@@ -18,13 +22,25 @@ RRC stands for: React Redux Create-react-app
 
 3. todo-React
 
+by @RitikPandey1
+
 'Todo' application using : React, React-Context-Api, Bootstrap
 
 4. photo-gallery-rest-api
 
+by @soosa 
+
 Photo gallery using images from REST API; React, Webpack
+
+5. todo_react
+
+by @veeralsharma
+
+'Todo' application using : React, Hooks, create-react-app, testing 
 
 ## Contributors
 @soosa 
 
 @RitikPandey1
+
+@veeralsharma
