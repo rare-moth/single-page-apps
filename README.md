@@ -36,7 +36,13 @@ Photo gallery using images from REST API; React, Webpack
 
 by @veeralsharma
 
-'Todo' application using : React, Hooks, create-react-app, testing 
+'Todo' application using: React, Hooks, create-react-app, testing 
+
+6, todo_Angular
+
+by @rajat29gupta
+
+'Todo' application using: AngularJS, angular-cli, testing
 
 ## Contributors
 @soosa 
@@ -44,3 +50,5 @@ by @veeralsharma
 @RitikPandey1
 
 @veeralsharma
+
+@rajat29gupta
