@@ -4,7 +4,7 @@
 
 Each folder in rare-moth/single-page-apps repository is stand alone project.
 
-You can either contribute to existing projects or submit your own.
+You can either contribute to existing projects or submit your own. There can be more than one solution to an issue and it is wonderful to see different approaches.
 
 ## Requirements
 1. Each project must be a self contained, single page application - **SPA**. Example technologies you can use:
@@ -18,7 +18,3 @@ Project ideas: todo list, memory card game, photo gallery, calculator, clock, fo
 - setting up instructions (npm install, etc.)
 
 *Happy coding, long live open source* 🖖 👩‍💻 :unicorn:
-
-## Contributors
-@soosa
-@RitikPandey1
