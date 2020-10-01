@@ -1,5 +1,13 @@
 # Changelog
 
+## single_page_apps/1.0.0
+
+added new SPA:
+- photo-gallery-from-rest
+- todo-React
+- todo_react
+- todo_Angular
+
 ## todo_RRC/1.0.0
 
 source https://redux.js.org/basics/example
