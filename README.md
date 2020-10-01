@@ -19,3 +19,12 @@ RRC stands for: React Redux Create-react-app
 3. todo-React
 
 'Todo' application using : React, React-Context-Api, Bootstrap
+
+4. photo-gallery-rest-api
+
+Photo gallery using images from REST API; React, Webpack
+
+## Contributors
+@soosa 
+
+@RitikPandey1
