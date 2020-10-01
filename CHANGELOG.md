@@ -1,5 +1,9 @@
 # Changelog
 
+## todo_RHW/1.1.0
+
+added OpenSans font
+
 ## single_page_apps/1.0.0
 
 added new SPA:
