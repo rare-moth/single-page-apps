@@ -4,7 +4,26 @@ This directory is a collection of [Single-page Applications](https://en.wikipedi
 Each folder contains a stand alone project.
 
 ## Index
-1. todo_RHW
+
+- **photo-gallery_RW**
+
+by @soosa 
+
+Photo gallery using images from REST API; React, Webpack
+
+- **todo-React**
+
+by @RitikPandey1
+
+'Todo' application using : React, React-Context-Api, Bootstrap
+
+- **todo_Angular**
+
+by @rajat29gupta
+
+'Todo' application using: AngularJS, angular-cli, testing
+
+- **todo_RHW**
 
 by @soosa 
 
@@ -12,7 +31,7 @@ by @soosa
 
 RHW stands for: React Hooks Webpack
 
-2. todo_RRC
+- **todo_RRC**
 
 by @soosa 
 
@@ -20,29 +39,24 @@ by @soosa
 
 RRC stands for: React Redux Create-react-app
 
-3. todo-React
+- **todo_gatsby**
 
-by @RitikPandey1
+by @RenatoSiqueira
 
-'Todo' application using : React, React-Context-Api, Bootstrap
+'Todo' application using: Gatsby
 
-4. photo-gallery-rest-api
+- **todo_nextjs**
 
-by @soosa 
+by @RenatoSiqueira
 
-Photo gallery using images from REST API; React, Webpack
+'Todo' application using: Next.JS
 
-5. todo_react
+- **todo_react**
 
 by @veeralsharma
 
 'Todo' application using: React, Hooks, create-react-app, testing 
 
-6, todo_Angular
-
-by @rajat29gupta
-
-'Todo' application using: AngularJS, angular-cli, testing
 
 ## Contributors
 @soosa 
