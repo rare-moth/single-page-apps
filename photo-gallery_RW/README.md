@@ -12,17 +12,13 @@ Single page application to display images from http://jsonplaceholder.typicode.c
 
 ```
 $npm install
-$npm install webpack -g
 ```
 
-run webpack:
+run development mode
 
 ```
-$webpack --watch
+$npm start
 ```
 
-run server on http://localhost:3000/ 
+server runs on http://localhost:7070/ 
 
-```
-$node index.js
-```
