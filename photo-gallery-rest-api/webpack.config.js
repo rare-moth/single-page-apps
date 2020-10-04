@@ -1,59 +1,29 @@
-const HtmlWebPackPlugin = require("html-webpack-plugin");
-
-const htmlPlugin = new HtmlWebPackPlugin({
-    template: "./public/index.html",
-    filename: "./index.html"
-  });
-
 module.exports = {
-  module: {
-    rules: [
-      {
-        test: /\.(js|jsx)$/,
-        exclude: /node_modules/,
-        use: {
-          loader: "babel-loader"
+    entry: './src/js/main.js',
+    output: {
+        path: __dirname + '/build/assets',
+        filename: 'prod-main.js',
+        publicPath: 'index.html'
+    },
+    resolve: {
+        alias: {
+            'rxjs': 'rxjs-es'
         }
-      },
-      {
-        test: /\.html$/,
-        use: [
+    },
+    devServer: {
+        inline: true,
+        port: 3000
+    },
+    module: {
+         loaders: [
           {
-            loader: "html-loader"
-          }
-        ]
-      },
-      {
-        test: /\.scss$/,
-        use: [
-            'style-loader',
-            {
-              loader: 'css-loader',
-              options: {
-                sourceMap: true,
-              },
-            },
-            {
-              loader: 'sass-loader',
-              options: {
-                sourceMap: true,
-              },
-            },
-          ],
-      },
-      {
-        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
-        use: [
-          {
-            loader: 'file-loader',
-            options: {
-              name: '[name].[ext]',
-              outputPath: 'fonts/'
+            test: /\.(js|jsx)$/,
+            exclude: /node_modules/,
+            loader: 'babel-loader',
+            query: {
+                presets: ['es2015', 'react']
             }
           }
         ]
-      }
-    ],  
-  },
-  plugins: [htmlPlugin]
-};
+    }
+ };
