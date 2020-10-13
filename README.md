@@ -58,6 +58,14 @@ by @veeralsharma
 'Todo' application using: React, Hooks, create-react-app, testing 
 
 
+- **rotating_cards**
+
+by @Aqsa48
+
+'rotatingcards_ReactJs' application using: React, CreativeTim
+
+
+
 ## Contributors
 @soosa 
 
@@ -68,3 +76,5 @@ by @veeralsharma
 @rajat29gupta
 
 @RenatoSiqueira
+
+@Aqsa48
