@@ -1,4 +1,4 @@
-# 👾 Hacktoberfest 2020 🍻
+# 👾 Hacktoberfest 2021 🍻
 
 ## How to contribute
 
